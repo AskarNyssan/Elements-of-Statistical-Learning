@@ -1,3 +1,3 @@
-# Jupyter notebooks for "The Elements of Statistical Learning" book.
+# Jupyter notebooks for the "The Elements of Statistical Learning" book.
 
 
